@@ -8,7 +8,6 @@ ThisBuild / gitVersioningSnapshotLowerBound := "2.5.0"
 ThisBuild / organization := "com.rallyhealth"
 ThisBuild / organizationName := "Rally Health"
 
-ThisBuild / scalaVersion := Scala_2_11
 ThisBuild / licenses := Seq("MIT" -> url("http://opensource.org/licenses/MIT"))
 
 ThisBuild / bintrayOrganization := Some("rallyhealth")
